@@ -1,0 +1,34 @@
+{
+ "config": {
+  "autor": "Marcos Ellys Rocha Honorato",
+  "version": "1.0.0",
+  "contributors": []
+ },
+ "towns": [
+  {
+   "id": 1,
+   "name": "Fortaleza",
+   "uf": "CE"
+  }
+ ],
+ "peoples": [
+  {
+   "id": 1,
+   "name": "Aurora Aparecida da Costa",
+   "cpf": "909.342.456-49",
+   "data_nasc": "25/03/1972",
+   "sexo": "Feminino",
+   "townId": 1
+  }
+ ],
+ "books": [
+  {
+   "name": "Mitologia Nórdica",
+   "author": "Neil Gaiman",
+   "isbn": [
+    { "ISBN-10": "8551001280" },
+    {"ISBN-13": "978-8551001288"}
+   ]
+  }
+ ]
+}
