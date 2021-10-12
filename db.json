@@ -2,7 +2,9 @@
  "config": {
   "autor": "Marcos Ellys Rocha Honorato",
   "version": "1.0.0",
-  "contributors": []
+  "contributors": [
+    "Rafaela Queiroz"
+  ]
  },
  "towns": [
   {
